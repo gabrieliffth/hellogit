@@ -1,2 +1,2 @@
-print("This is Sparta")
+print("New Hello Github")
 
